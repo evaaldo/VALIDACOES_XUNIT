@@ -1,8 +1,7 @@
-# DIO - Trilha .NET - Testes Unitários com C#
-www.dio.me
+#Testes Unitários com C#
 
 ## Desafio de projeto
-Para este desafio, você precisará usar seus conhecimentos adquiridos no módulo de Testes Unitários com C#, da trilha .NET da DIO.
+Para este desafio, utilizei de meus conhecimentos adquiridos com Testes Unitários em C#.
 
 ## Contexto
 Você está trabalhando em um sistema, e seus gestores relataram que frequentemente há problemas no software: bugs, funcionalidades que estavam funcionando de repente não funcionam mais, problemas de validações, entre outros. Os clientes já começam a duvidar da qualidade do código.
